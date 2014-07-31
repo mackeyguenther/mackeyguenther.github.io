@@ -1,11 +1,12 @@
 h1 {
   text-align:center;
-  font-family:'Adobe Garamond Pro', serif;
+  font-family:'Helvetica Neue', sans-serif;
   font-weight:400;
   font-size:30px;
+  color:#00a2f4;
 }
 
 .container {
   position:relative;
-  width:850px;
+  width:900px;
 }

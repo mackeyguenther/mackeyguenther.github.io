@@ -32,3 +32,7 @@ a {
 a:hover {
   color:#0096E0;
 }
+
+img {
+  margin:0 auto;
+}

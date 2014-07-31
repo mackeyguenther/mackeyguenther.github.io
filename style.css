@@ -6,5 +6,7 @@ h1 {
 }
 
 .container {
-
+  position:relative;
+  height:200px;
+  width:100px;
 }

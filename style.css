@@ -1,10 +1,14 @@
+.container {
+  width:913px;
+  height:216px;
+}
 h1 {
   text-align:left;
   font-family:'Helvetica Neue', sans-serif;
   font-weight:600;
   font-size:40px;
   color:#00a2f4;
-  line-height:
+  line-height:54px;
 }
 span.oneblue {
   color:#0096E0;
@@ -15,5 +19,14 @@ span.twoblue {
 }
 
 a {
-  border-bottom:2px solid #ccc;
+  border-bottom:4px solid #ccc;
+  color:inherit;
+	font-style:normal;
+	text-decoration:none;
+  transition: 500ms ease-in;
+  -webkit-transition: 500ms ease-in;
+}
+
+a:hover {
+  color:#0096E0;
 }

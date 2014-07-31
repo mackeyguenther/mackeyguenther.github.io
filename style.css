@@ -2,10 +2,10 @@ h1 {
   text-align:center;
   font-family:'Adobe Garamond Pro', serif;
   font-weight:400;
-  text-size:80px;
+  text-size:60px;
 }
 
 .container {
   position:relative;
-  width:1000px;
+  width:800px;
 }

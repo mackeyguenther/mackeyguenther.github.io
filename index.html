@@ -4,26 +4,25 @@
   <title>Mackey Guenther</title>
   <link href="style.css" rel="stylesheet" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+
+   $(window).resize(function(){
+
+    $('.container').css({
+     position:'absolute',
+     left: ($(window).width()
+       - $('.container').outerWidth())/2,
+     top: ($(window).height()
+       - $('.container').outerHeight())/2
+    });
+
+   });
+   $(window).resize();
+  });
+  </script>
 </head>
 <body>
-<script type="text/javascript">
-$(document).ready(function(){
-
- $(window).resize(function(){
-
-  $('.container').css({
-   position:'absolute',
-   left: ($(window).width()
-     - $('.container').outerWidth())/2,
-   top: ($(window).height()
-     - $('.container').outerHeight())/2
-  });
-
- });
-
-});
-$(window).resize();
-</script>
 <div class="container"><h1>Hi there.<br><span class="oneblue">I'm Mackey Guenther, a 7th grader from Seattle.</span><br><span class="twoblue">Find me on <a href="http://twitter.com/mackeyguenther" target="_blank">Twitter</a>, <a href="http://github.com/pixelmack">Github</a> and <a href="http://dribbble.com/pixelmack">Dribbble</a>.</span></h1></div>
 </body>
 </html>

@@ -1,7 +1,9 @@
 .container {
   width:913px;
   height:216px;
+  position:absolute;
 }
+
 h1 {
   text-align:left;
   font-family:'Helvetica Neue', sans-serif;

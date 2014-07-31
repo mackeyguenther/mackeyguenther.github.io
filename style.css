@@ -9,3 +9,11 @@ h1 {
 span.oneblue {
   color:#0096E0;
 }
+
+span.twoblue {
+  color:#007AB8;
+}
+
+a {
+  border-bottom:2px solid #ccc;
+}

@@ -1,7 +1,6 @@
 .container {
   width:913px;
   height:366px;
-  position:absolute;
 }
 
 h1 {
@@ -30,9 +29,9 @@ a {
 }
 
 a:hover {
-  color:#0096E0;
+  color:#00a2f4;
 }
 
 img {
-  margin-left:0 auto;
+  margin:0 auto;
 }

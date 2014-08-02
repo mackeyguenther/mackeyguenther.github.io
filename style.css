@@ -1,36 +1,39 @@
 .container {
-  width:700px;
-  height:170px; 
-  max-width:90%;
+    width:700px;
+    height:170px;
+    max-width:90%;
 }
 
 h1 {
-  text-align:left;
-  font-family: "HelveticaNeue-Bold", "Helvetica Neue Bold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  font-weight:600;
-  font-size:30px;
-  color:#00a2f4;
-  line-height:50px;
-  padding:0;
-  margin:0;
-}
-span.oneblue {
-  color:#0096E0;
+    text-align:left;
+    font-family:"HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight:600;
+    font-size:30px;
+    color:#00a2f4;
+    line-height:50px;
+    padding:0;
+    margin:0;
 }
 
-span.twoblue {
-  color:#007AB8;
+.oneblue {
+    color:#0096E0;
+}
+
+.twoblue {
+    color:#007AB8;
 }
 
 a {
-  border-bottom:4px solid #ccc;
-  color:inherit;
-	font-style:normal;
-	text-decoration:none;
-  transition: 500ms ease-in;
-  -webkit-transition: 500ms ease-in;
+    border-bottom:4px solid #ccc;
+    color:inherit;
+    font-style:normal;
+    text-decoration:none;
+    transition:500ms ease-in;
+    -webkit-transition:500ms ease-in;
+    -o-transition:500ms ease-in;
+    -moz-transition:500ms ease-in;
 }
 
 a:hover {
-  color:#00a2f4;
+    color:#00a2f4;
 }

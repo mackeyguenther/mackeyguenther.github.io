@@ -1,6 +1,6 @@
 .container {
     width:700px;
-    height:170px;
+    height:225px;
     max-width:90%;
 }
 
@@ -36,4 +36,8 @@ a {
 
 a:hover {
     color:#00a2f4;
+}
+
+img {
+    margin-bottom:15px;
 }

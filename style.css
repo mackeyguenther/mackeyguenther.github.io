@@ -9,22 +9,21 @@ h1 {
     font-family:"HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     font-weight:600;
     font-size:30px;
-    color:#00a2f4;
+    color:#0096E0;
     line-height:50px;
     padding:0;
     margin:0;
 }
 
 .oneblue {
-    color:#0096E0;
+    color:#007DC7;
 }
 
 .twoblue {
-    color:#007AB8;
+    color:#0063AD;
 }
 
 a {
-    border-bottom:4px solid #ccc;
     color:inherit;
     font-style:normal;
     text-decoration:none;
@@ -35,9 +34,13 @@ a {
 }
 
 a:hover {
-    color:#00a2f4;
+    color:#007DC7;
 }
 
 img {
     margin-bottom:15px;
+}
+
+.email {
+  color: #ccc;
 }

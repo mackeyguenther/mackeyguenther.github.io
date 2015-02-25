@@ -27,10 +27,10 @@ a {
     color:inherit;
     font-style:normal;
     text-decoration:none;
-    transition:500ms ease-in;
+    transition:250ms ease-in;
     -webkit-transition:500ms ease-in;
-    -o-transition:500ms ease-in;
-    -moz-transition:500ms ease-in;
+    -o-transition:250ms ease-in;
+    -moz-transition:250ms ease-in;
 }
 
 a:hover {

@@ -28,7 +28,7 @@ a {
     font-style:normal;
     text-decoration:none;
     transition:250ms ease-in;
-    -webkit-transition:500ms ease-in;
+    -webkit-transition:250ms ease-in;
     -o-transition:250ms ease-in;
     -moz-transition:250ms ease-in;
 }

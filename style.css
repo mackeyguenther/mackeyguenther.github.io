@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+
 .container {
     width:710px;
     height:225px;
@@ -6,8 +8,8 @@
 
 h1 {
     text-align:left;
-    font-family:"HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    font-weight:600;
+    font-family:"Roboto", "HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight:500;
     font-size:30px;
     color:#0096E0;
     line-height:50px;

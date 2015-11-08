@@ -1,9 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
 
 .container {
-    width:710px;
-    height:225px;
-    max-width:90%;
+    height:230px;
+    width:800px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-115px 0 0 -400px;
 }
 
 h1 {

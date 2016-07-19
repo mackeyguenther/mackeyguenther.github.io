@@ -1,18 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400);
 
 .container {
-    height:230px;
+    height:200px;
     width:800px;
     position:absolute;
     left:50%;
     top:50%;
-    margin:-115px 0 0 -400px;
+    margin:-100px 0 0 -400px;
 }
 
 h1 {
-    text-align:left;
+    text-align: center;
     font-family:"Roboto", "HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
-    font-weight:500;
+    font-weight:400;
     font-size:30px;
     color:#0096E0;
     line-height:50px;
@@ -20,30 +20,10 @@ h1 {
     margin:0;
 }
 
-.oneblue {
-    color:#007DC7;
-}
-
-.twoblue {
-    color:#0063AD;
-}
-
-a {
-    color:inherit;
-    font-style:normal;
-    text-decoration:none;
-    transition:250ms ease-in;
-    -webkit-transition:250ms ease-in;
-    -o-transition:250ms ease-in;
-    -moz-transition:250ms ease-in;
-}
-
-a:hover {
-    color:#0096E0;
-}
-
 img {
-    margin-bottom:15px;
+  display:block;
+  margin:auto;
+  margin-bottom:30px;
 }
 
 .email {

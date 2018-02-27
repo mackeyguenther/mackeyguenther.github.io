@@ -32,8 +32,7 @@ img {
 
 .socialink {
   color: #ccc;
-  border-bottom: 2px solid currentColor;
-  line-height: 0.85;
+  border-bottom: 2px solid;
 }
 
 .linkedin {

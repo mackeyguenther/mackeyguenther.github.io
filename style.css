@@ -32,11 +32,6 @@ img {
 
 .socialink {
   color: #ccc;
-  text-shadow:
-    2px 2px white,
-    2px -2px white,
-    -2px 2px white,
-    -2px -2px white;
   border-bottom: 2px solid currentColor;
 }
 

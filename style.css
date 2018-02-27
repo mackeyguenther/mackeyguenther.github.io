@@ -32,6 +32,11 @@ img {
 
 .dribbble {
   color: #ccc;
+  text-shadow:
+    2px 2px white,
+    2px -2px white,
+    -2px 2px white,
+    -2px -2px white;
 }
 
 .linkedin {
